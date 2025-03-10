@@ -1,11 +1,9 @@
 ---
 layout: archive
-# title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 ---
-
-# Curriculum Vitae  
 
 📄 **[Download My CV (PDF)](/cv.pdf)**  
 
