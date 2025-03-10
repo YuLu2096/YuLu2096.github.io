@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yu Lu - PhD Candidate"
+title                    : "Yu Lu"
 title_separator          : "-"
-name                     : &name "Yu Lu"
+name                     : &name
 description              : &description "personal description"
 url                      : "YuLu2096/YuLu2096.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
