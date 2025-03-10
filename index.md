@@ -1,2 +1,5 @@
-# Yu Lu
-Welcome to my website!
+I am a fourth-year Ph.D. student in the Department of Applied Mathematics at UC Merced, where I am fortunate to be advised by Prof. Roummel F. Marcia. My research focuses on non-convex optimization, deep learning, and low-photon computer vision. I welcome any comments or questions about my work—feel free to reach out!
+
+Currently, I am completing my Ph.D. dissertation as a visitor at the University of Chicago, where I am deeply grateful to be supported by Dr. Rebecca Willett. Previously, I earned my B.S. in Mathematics at UCLA, where I had the honor of being mentored by Dr. Asgar Jamneshan under the guidance of Prof. Terence Tao.
+
+In Fall 2024, I had the privilege of interning at Argonne National Laboratory under the guidance of Dr. Thomas F. Lynn and Dr. Sven Leyffer. I have also been fortunate to collaborate closely with Dr. Ming Du and Dr. Zichao Di. During Summer 2024, I interned at Lawrence Berkeley National Laboratory, where I was honored to be supervised by Dr. Lorenzo Aureli and Dr. Frederik Schulz.
